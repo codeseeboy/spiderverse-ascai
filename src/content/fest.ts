@@ -15,7 +15,7 @@ export const fest = {
   whatsapp: "https://chat.whatsapp.com/",
   mapsUrl: "https://maps.google.com/?q=St+John+College+of+Engineering+and+Management",
   /** Paste Google Form link here when ready */
-  registerUrl: "",
+  registerUrl: "https://forms.gle/LhwGkEZcqaBwiYDV7",
   hackUrl: "",
   prizePool: "₹3,000",
   theme:
