@@ -39,9 +39,6 @@ export function Credits() {
             WHATSAPP
           </a>
         </div>
-        <p className="mx-auto mt-10 max-w-md text-sm text-white/50">
-          Original event identity. Not affiliated with Marvel or Sony.
-        </p>
       </div>
     </footer>
   );
