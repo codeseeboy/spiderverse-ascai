@@ -1,6 +1,6 @@
-# SPIDER-VERSE
+# SPIDER-VERSE / HACK-VERSE
 
-6-hour college hackathon site (Next.js).
+6-hour college hackathon site (Next.js) — ASCAI @ St. John College of Engineering and Management.
 
 ## Local
 
@@ -11,49 +11,33 @@ npm run dev
 
 Open http://localhost:3000
 
-## Before you push / deploy
+## Before deploy
 
-1. **Google Form URL** — paste into `src/content/fest.ts` → `registerUrl`
-2. Optional: college name, Instagram, WhatsApp in the same file
-3. Confirm build:
+1. Paste Google Form URL in `src/content/fest.ts` → `registerUrl`
+2. Optional: Instagram / WhatsApp links in the same file
+3. `npm run build`
 
-```bash
-npm run build
-```
-
-## Push (you do this)
+## Push
 
 ```bash
 git add .
-git commit -m "Ready SPIDER-VERSE hackathon site for deploy"
-git remote add origin YOUR_GITHUB_REPO_URL   # if not already set
-git branch -M main
-git push -u origin main
+git commit -m "Update site"
+git push
 ```
 
-## Deploy on Vercel (recommended)
+## Deploy (Vercel)
 
-1. Go to [vercel.com](https://vercel.com) → sign in with GitHub
-2. **Add New Project** → import this repo
-3. Framework: **Next.js** (auto-detected)
-4. Click **Deploy**
-5. Done — you get a live URL like `https://your-project.vercel.app`
+Import the GitHub repo → Framework **Next.js** → Deploy.  
+No environment variables needed.
 
-No env vars required for the current site.
-
-### After deploy
-
-- Add custom domain in Vercel → Project → Settings → Domains (optional)
-- Update `registerUrl` anytime, push again → Vercel redeploys automatically
-
-## Content files
+## Content
 
 | File | What |
 |------|------|
-| `src/content/fest.ts` | name, dates, links, Google Form |
+| `src/content/fest.ts` | event info, college, contacts, form link |
 | `src/content/hackathon.ts` | missions, fees, rules |
 | `src/content/schedule.ts` | timeline |
 | `src/content/faq.ts` | FAQ |
-| `src/content/assets.ts` | image paths |
+| `src/content/assets.ts` | image / audio paths |
 
 Original event identity. Not affiliated with Marvel or Sony.
