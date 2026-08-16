@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" preserveAspectRatio="none">
+  <g fill="none" stroke="#000" stroke-width="3" stroke-linecap="square">
+    <path d="M-20 40 L820 18"/>
+    <path d="M-20 92 L820 70"/>
+    <path d="M-20 148 L820 122"/>
+    <path d="M-20 210 L820 188"/>
+    <path d="M-20 268 L820 250"/>
+    <path d="M-20 330 L820 302"/>
+    <path d="M-20 392 L820 370"/>
+    <path d="M-20 450 L820 428"/>
+    <path d="M-20 512 L820 490"/>
+    <path d="M-20 570 L820 552"/>
+    <path d="M-20 632 L820 608"/>
+    <path d="M-20 690 L820 672"/>
+    <path d="M-20 748 L820 730"/>
+  </g>
+</svg>
