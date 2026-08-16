@@ -27,7 +27,7 @@ export const fest = {
     { k: "₹3K", v: "PRIZE POOL" },
   ],
   contacts: [
-    { role: "Faculty Co-ordinator", name: "Trusha Sankhe", phone: "9637245024" },
+    { role: "Faculty Co-ordinator", name: "Juily Tarade", phone: "9579118693" },
     { role: "Student Co-ordinator", name: "Samruddhi", phone: "9765823151" },
     { role: "Student Co-ordinator", name: "Sahil", phone: "9588423093" },
   ],

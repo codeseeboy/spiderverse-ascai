@@ -29,6 +29,6 @@ export const faqs = [
   },
   {
     q: "Who do I contact?",
-    a: "Faculty: Trusha Sankhe (9637245024). Students: Samruddhi (9765823151), Sahil (9588423093).",
+    a: "Faculty: Juily Tarade (9579118693). Students: Samruddhi (9765823151), Sahil (9588423093).",
   },
 ];
