@@ -1,7 +1,7 @@
 export const faqs = [
   {
     q: "When is the hackathon?",
-    a: "24 August 2026, 10:00 AM – 4:00 PM (6 hours).",
+    a: "01 September 2026, 10:00 AM – 4:00 PM (6 hours).",
   },
   {
     q: "Where is it?",
@@ -13,7 +13,7 @@ export const faqs = [
   },
   {
     q: "What is the prize pool?",
-    a: "₹3,000.",
+    a: "₹2,000.",
   },
   {
     q: "Team size?",

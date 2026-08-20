@@ -5,8 +5,8 @@ export const fest = {
   college: "St. John College of Engineering and Management",
   organizedBy: "ASCAI",
   tagline: "With great code comes great responsibility.",
-  dates: "24 AUGUST 2026",
-  countdownTo: "2026-08-24T10:00:00+05:30",
+  dates: "01 September 2026",
+  countdownTo: "2026-09-01T10:00:00+05:30",
   venue: "St. John College of Engineering and Management",
   city: "Palghar",
   time: "10:00 AM – 4:00 PM",
@@ -17,14 +17,14 @@ export const fest = {
   /** Paste Google Form link here when ready */
   registerUrl: "https://forms.gle/LhwGkEZcqaBwiYDV7",
   hackUrl: "",
-  prizePool: "₹3,000",
+  prizePool: "₹2,000",
   theme:
     "HACK-VERSE — a 6-hour college hackathon by ASCAI at St. John College of Engineering and Management. Bring ideas, creativity, and problem-solving skills.",
   highlights: [
     { k: "6H", v: "HACKATHON" },
-    { k: "24 AUG", v: "ONE DAY" },
+    { k: "01 SEPT", v: "ONE DAY" },
     { k: "1–4", v: "TEAM SIZE" },
-    { k: "₹3K", v: "PRIZE POOL" },
+    { k: "₹2K", v: "PRIZE POOL" },
   ],
   contacts: [
     { role: "Faculty Co-ordinator", name: "Juily Tarade", phone: "9579118693" },

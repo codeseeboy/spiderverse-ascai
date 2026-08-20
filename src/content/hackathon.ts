@@ -18,13 +18,13 @@ export const hackathon = {
   line: "BUILD YOUR UNIVERSE.",
   duration: "6 HOURS",
   team: "1–4 MEMBERS",
-  date: "24 AUGUST 2026",
+  date: "01 SEPTEMBER 2026",
   time: "10:00 AM – 4:00 PM",
   eligibility: "Students ready to build. Register as a team of 1–4 on the official Google Form.",
   intro:
     "HACK-VERSE by ASCAI — a focused 6-hour hackathon at St. John College of Engineering and Management. Come with ideas, creativity, and problem-solving skills — then ship something real before 4 PM.",
   theme: "Open build — bring your best idea and make it work in six hours.",
-  prize: "₹3,000 PRIZE POOL",
+  prize: "₹2,000 PRIZE POOL",
   fees: [
     { id: "solo-duo", label: "SINGLE / DUO", amount: "₹100", note: "1 or 2 members" },
     { id: "team4", label: "TEAM OF 4", amount: "₹200", note: "Per team" },
@@ -60,7 +60,7 @@ export const hackathon = {
     },
   ],
   rules: [
-    "Hackathon runs 10:00 AM – 4:00 PM on 24 August 2026 (6 hours).",
+    "Hackathon runs 10:00 AM – 4:00 PM on 01 September 2026 (6 hours).",
     "Team size 1–4. Register on the official Google Form.",
     "Single/Duo fee: ₹100. Team of 4: ₹200 per team.",
     "Pay via the QR on the form, then upload the payment screenshot.",

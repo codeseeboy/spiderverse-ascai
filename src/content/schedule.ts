@@ -8,7 +8,7 @@ export type Beat = {
   art: string;
 };
 
-/** Single-day schedule — 24 August 2026 */
+/** Single-day schedule — 01 September 2026 */
 export const schedule: Beat[] = [
   { day: 1, time: "09:30", title: "CHECK-IN", note: "Registration desk · team confirmation", art: assets.images.intakeGate },
   { day: 1, time: "10:00", title: "PORTAL OPEN", note: "Hackathon starts · briefs live", art: assets.images.inauguration },

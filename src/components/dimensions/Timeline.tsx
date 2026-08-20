@@ -16,7 +16,7 @@ export function Timeline() {
       />
 
       <div className="relative px-4 md:px-10" data-rise>
-        <p className="comic-caption">24 AUGUST 2026</p>
+        <p className="comic-caption">01 SEPTEMBER 2026</p>
         <h2 data-slam className="comic-type mt-3 text-[clamp(3.4rem,9vw,7rem)] leading-[0.86] text-[var(--stamp)]">
           THE
           <span className="block text-black">CLOCK</span>
